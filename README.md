@@ -19,14 +19,14 @@
   <img src="https://img.shields.io/badge/Product%20Mindset-f59e0b?style=flat-square&logo=target&logoColor=white" alt="Product Mindset" />
 </p>
 
-## About Me
+## 👨‍💻 About Me
 
 - Role: `Software Engineer (SWE)`
 - Focus: `Web Development and AI Agents`
 - Build style: `Pragmatic, product-first, scalable`
 - Ask me about: `Java, Python, React, Vue, JavaScript, Node.js, AI Development`
 
-## Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20" /> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=f59e0b" alt="Java" />
@@ -37,9 +37,27 @@
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316" alt="Git" />
   <img src="https://img.shields.io/badge/AI%20Development-111827?style=for-the-badge&logo=openai&logoColor=a78bfa" alt="AI Development" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=ef4444" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38bdf8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Spring-111827?style=for-the-badge&logo=spring&logoColor=84cc16" alt="Spring" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=10b981" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=60a5fa" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=22c55e" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38bdf8" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=f472b6" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=f97316" alt="Postman" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=60a5fa" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" />
 </p>
 
-## GitHub Insights
+## 🧰 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,git,github,postman,docker,figma,cursor&theme=dark" alt="Tools Icons" />
+</p>
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" /> GitHub Insights
 
 <p align="center">
   <picture>
@@ -62,7 +80,7 @@
   </picture>
 </p>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -72,7 +90,7 @@
   </picture>
 </p>
 
-## Featured Projects
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" /> Featured Projects
 
 <table>
 <tr>
