@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm hfakeeeeee</h1>
+<h1 align="center">Hi, I'm HFake</h1>
 <p align="center">
   Building clean products, learning fast, and shipping consistently.
 </p>
@@ -7,10 +7,10 @@
   <a href="https://github.com/hfakeeeeee">
     <img src="https://img.shields.io/badge/GitHub-hfakeeeeee-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:huynguyenquoc.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/hfake/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
@@ -18,7 +18,6 @@
 ## About Me
 - I am currently working on: `replace-this-with-project`
 - I am currently learning: `replace-this-with-skill`
-- I am open to: `freelance | internships | collaborations`
 - Ask me about: `web dev, automation, APIs`
 
 ## Tech Stack
@@ -43,9 +42,9 @@
 </p>
 
 ## Featured Projects
-- [Project One](https://github.com/hfakeeeeee/project-one): Short one-line description.
-- [Project Two](https://github.com/hfakeeeeee/project-two): Short one-line description.
-- [Project Three](https://github.com/hfakeeeeee/project-three): Short one-line description.
+- [TechVerse](https://github.com/hfakeeeeee/Ecommerce): Full-stack ecommerce platform designed for seamless online shopping experiences. 
+- [Trackly](https://github.com/hfakeeeeee/Trackly): Modern personal expense tracker built with React, TypeScript, and Vite.
+- [ShuttleSplit](https://github.com/hfakeeeeee/ShuttleSplit): A modern, luxurious web application for managing badminton court fees
 
 ## Profile Views
 <p>
